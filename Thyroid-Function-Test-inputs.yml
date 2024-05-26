@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/thyroid-function-test-m2-minute---primary.py
+inputModule3:
+  class: File
+  path: python/abnormal-thyroid-function-test-m2---primary.py
+inputModule4:
+  class: File
+  path: python/thyroid-function-test-m2-thyroglobulin---primary.py
+inputModule5:
+  class: File
+  path: python/thyroid-function-test-m2-level---primary.py
+inputModule6:
+  class: File
+  path: python/thyroid-function-test-m2-binding---primary.py
+inputModule7:
+  class: File
+  path: python/thyroid-function-test-m2-triiodothyronine---primary.py
+inputModule8:
+  class: File
+  path: python/thyroid-function-test-m2-thyroxine---primary.py
+inputModule9:
+  class: File
+  path: python/thyroid-function-test-m2-plasma---primary.py
+inputModule10:
+  class: File
+  path: python/thyroid-function-test-m2-uptake---primary.py
+inputModule11:
+  class: File
+  path: python/thyroid-function-test-m2-hormone---primary.py
+inputModule12:
+  class: File
+  path: python/thyroid-function-test-m2-serum---primary.py
+inputModule13:
+  class: File
+  path: python/total-thyroid-function-test-m2---primary.py
+inputModule14:
+  class: File
+  path: python/thyroid-function-test-m2---primary.py
+inputModule15:
+  class: File
+  path: python/function---primary.py
+inputModule16:
+  class: File
+  path: python/euthyroid-thyroid-function-test-m2---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
